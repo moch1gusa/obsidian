@@ -1,0 +1,23 @@
+{
+  "minimal-style@@indentation-guide-color@@light": "#00DB69",
+  "minimal-style@@indentation-guide-color-active@@light": "#DC0B0B",
+  "minimal-style@@base@@light": "#CFE8DC",
+  "minimal-style@@bg1@@light": "#FCFFFD",
+  "minimal-style@@bg2@@light": "#CFE8DC",
+  "minimal-style@@ui2@@light": "#5BCB94",
+  "minimal-style@@ui3@@light": "#5BCB94",
+  "minimal-style@@ax1@@light": "#0BBB65",
+  "minimal-style@@sp1@@light": "#0BBB65",
+  "Blue-Topaz-Codebox-Highlight@@font-weight-inline-code": "\"\"",
+  "Blue-Topaz-Codebox-Highlight@@background-code-2@@light": "#FFFFFF",
+  "Blue-Topaz-Codebox-Highlight@@text-color-code@@light": "#000000",
+  "a-unique-id@@accent": "#244094",
+  "blue-topaz-theme@@indentation-guide-color@@light": "#244094",
+  "blue-topaz-theme@@bt-list-indentation-margin-left-editing": "2px",
+  "blue-topaz-theme@@indentation-guide-color-active@@light": "#D305D9",
+  "blue-topaz-theme@@indentation-guide-width": 2,
+  "blue-topaz-theme@@bt-list-indentation-margin-left-reading": "2px",
+  "blue-topaz-theme@@bt-indentation-width-hover": "2px",
+  "blue-topaz-theme@@colorful-ordered-list": true,
+  "blue-topaz-theme@@fancy-hr": "default-hr"
+}
